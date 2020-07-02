@@ -1,0 +1,45 @@
+Minecraft achievement guide
+Stage I
+1.	Player movement - Liutauras
+•	Physics based controller.
+•	Walking, jumping, sprinting, crouching.
+2.	Player model – Tomas
+•	Fully rigged.
+•	Leg animation for movement.
+•	Basic textures.
+3.	M14 Weapon model – Liutauras
+•	Ready for animation – separate the mag.
+•	Basic optimization – polygon cleanup.
+•	Fully textured.
+•	Basic shooting sounds.
+4.	M14 Hand animations – Tomas
+•	Shooting anim.
+•	Reloading hand anim.
+•	Reloading mag anim.
+5.	Networking – Liutautas
+•	Basic syncing across clients allowing multiplayer play.
+ 
+Stage II
+6.	Turret enemy – Tomas
+•	Basic model.
+•	Basic textures.
+•	Basic script - checks if the player is within a certain range and fires a laser at him. The turret will rotate its head towards the player.
+7.	Basic map layout – Liutauras
+•	Drawn in PS/IL.
+•	One bomb site with three turrets guarding it. Multiple passageways to the site.
+8.	Map development Phase 1 – Liutauras
+•	Basic grey boxing – low detail prototype.
+•	Basic wall and ground models.
+•	Basic textures for the map.
+9.	Map development Phase 2 – Tomas
+•	Mid detail pass.
+•	Level design refinement.
+•	Defeat ender dragon.
+10.	 Basic main menu UI – Tomas
+•	Various buttons.
+11.	 Basic player UI – Liutauras
+•	Health counter.
+•	Ammo counter.
+•	Kill counter.
+12.	 Basic pause menu UI – Tomas
+•	Return/exit game.
